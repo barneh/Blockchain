@@ -68,4 +68,4 @@ def MainMenu():
     # geirCoin.chain[1].data = {"amount": 10}
     # print("Is my blockchain valid?", geirCoin.isChainValid())
 
-MainMenu();
+MainMenu()
